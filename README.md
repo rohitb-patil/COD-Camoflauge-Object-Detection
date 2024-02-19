@@ -32,8 +32,19 @@ Our system is designed with a primary focus on addressing camouflage challenges 
 For detailed insights into our manual dataset creation and its integration into the model, please refer to our Camouflage Dataset  . This dataset serves as a crucial foundation for training and fine-tuning the model.
 
 ## *To access this dataset click on the icon* . [![YOLO](yolo.jpg)](https://universe.roboflow.com/sih-clucx/camoflauge-object-detction)
+## To access this Results and (.pt file) click on the icon . [![YOLO](Google.png)](https://drive.google.com/drive/folders/12LWV9p7aQXD7d9o8pmXrPpT9rqcph1st?usp=sharing)
+---
 
-    
+# SOME RESULTS
+<p align="center">
+  <img src="frame_1400.png" alt="Image 1" width="300"/>
+  <img src="frame_14000.png" alt="Image 2" width="300"/>
+</p>
+
+<p align="center">
+  <img src="frame_20200.png" alt="Image 1" width="300"/>
+  <img src="frame_9200.png" alt="Image 2" width="300"/>
+</p>
 
 ### *Cite Us*
 
