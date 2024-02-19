@@ -33,7 +33,7 @@ For detailed insights into our manual dataset creation and its integration into 
 
 ## *To access this dataset click on the icon* . [![YOLO](yolo.jpg)](https://universe.roboflow.com/sih-clucx/camoflauge-object-detction)
 
-## *To access this Results and (.pt file) click on the icon* . [![YOLO](google.jpg)](https://drive.google.com/drive/folders/12LWV9p7aQXD7d9o8pmXrPpT9rqcph1st?usp=sharing)
+## *To access this Results and (.pt file) click on the icon* . [![YOLO](Google.png)](https://drive.google.com/drive/folders/12LWV9p7aQXD7d9o8pmXrPpT9rqcph1st?usp=sharing)
 ---
 
 ### *Cite Us*
