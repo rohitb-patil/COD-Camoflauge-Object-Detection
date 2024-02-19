@@ -1,1 +1,1 @@
-[![YOLO](download.png)](https://universe.roboflow.com/sih-clucx/camoflauge-object-detction)
+[![YOLO](download.jpg)](https://universe.roboflow.com/sih-clucx/camoflauge-object-detction)
