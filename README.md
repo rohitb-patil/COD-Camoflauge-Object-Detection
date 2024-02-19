@@ -29,8 +29,9 @@ The YOLOv8 model is used for initial object detection and extract bounding box c
 Our system is designed with a primary focus on addressing camouflage challenges in military scenarios. It is finely tuned to detect targets even in intricate camouflage conditions, providing enhanced capabilities for military operations.
 
 ### *Explore the Dataset*
-For detailed insights into our manual dataset creation and its integration into the model, please refer to our Camouflage Dataset [![YOLO](yolo.jpg)](https://universe.roboflow.com/sih-clucx/camoflauge-object-detction) . This dataset serves as a crucial foundation for training and fine-tuning the model.
+For detailed insights into our manual dataset creation and its integration into the model, please refer to our Camouflage Dataset  . This dataset serves as a crucial foundation for training and fine-tuning the model.
 
+## *To access this dataset click on the icon* . [![YOLO](yolo.jpg)](https://universe.roboflow.com/sih-clucx/camoflauge-object-detction)
 ---
 
 ### *Cite Us*
